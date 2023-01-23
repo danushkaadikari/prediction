@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/prediction/static/css/main.5b95bcab.css",
+    "main.js": "/prediction/static/js/main.f93e8af9.js",
+    "static/js/787.23faca10.chunk.js": "/prediction/static/js/787.23faca10.chunk.js",
+    "static/media/calculating.gif": "/prediction/static/media/calculating.168f4181680b670a97b5.gif",
+    "static/media/Tick.gif": "/prediction/static/media/Tick.387bd9728193f6e41868.gif",
+    "static/media/header-logo-white.svg": "/prediction/static/media/header-logo-white.505870cbb45c322af87c9553041f8463.svg",
+    "static/media/instagram.svg": "/prediction/static/media/instagram.dee42dfe59f6a5b3b1da3faa1035f907.svg",
+    "static/media/menu-bar.svg": "/prediction/static/media/menu-bar.5af9292c4e9498b4cd2cb607a0761a60.svg",
+    "static/media/discord.svg": "/prediction/static/media/discord.4c078147b0569a74d93f992934638751.svg",
+    "static/media/twitter.svg": "/prediction/static/media/twitter.b65e14164f0f912813bbdb99529b26fa.svg",
+    "static/media/telegram.svg": "/prediction/static/media/telegram.c86bfdfa1675098e1871f20c1bab05ad.svg",
+    "static/media/linkedin.svg": "/prediction/static/media/linkedin.f9eb330f589c50815699a5bbcb05dae5.svg",
+    "index.html": "/prediction/index.html",
+    "static/media/fb.svg": "/prediction/static/media/fb.7bdad741ffa82e9319a53472efe353d7.svg",
+    "static/media/down.svg": "/prediction/static/media/down.b8861fcb756b4d4f9e70685b6414d60f.svg",
+    "static/media/back.svg": "/prediction/static/media/back.3de99dfe46b69808b079c1b99a0a99f3.svg",
+    "static/media/DownSide.svg": "/prediction/static/media/DownSide.bf59c0dd8a717274fe87d8faf557a42f.svg",
+    "static/media/UpSide.svg": "/prediction/static/media/UpSide.50f9792db59335e588cd6733848a94a7.svg",
+    "static/media/loader.svg": "/prediction/static/media/loader.30673f7058e7158dea10f3610cc0d16d.svg",
+    "main.5b95bcab.css.map": "/prediction/static/css/main.5b95bcab.css.map",
+    "main.f93e8af9.js.map": "/prediction/static/js/main.f93e8af9.js.map",
+    "787.23faca10.chunk.js.map": "/prediction/static/js/787.23faca10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b95bcab.css",
+    "static/js/main.f93e8af9.js"
+  ]
+}
