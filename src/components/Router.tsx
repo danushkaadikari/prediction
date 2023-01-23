@@ -21,7 +21,7 @@ export function Routers() {
     <Routes>
       <Route element={<Layout />}>
         <Route path="/prediction" element={<Dashboard />} />
-        <Route path="*" element={<NotFound />} />
+        <Route path="*" element={<Dashboard />} />
       </Route>
     </Routes>
   );
