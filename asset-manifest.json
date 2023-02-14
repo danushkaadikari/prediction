@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prediction/static/css/main.9771b2c8.css",
-    "main.js": "/prediction/static/js/main.19bcb817.js",
+    "main.js": "/prediction/static/js/main.888dc62c.js",
     "static/js/787.23faca10.chunk.js": "/prediction/static/js/787.23faca10.chunk.js",
     "static/media/lumangi-cover.png": "/prediction/static/media/lumangi-cover.ffbda36140256d2073a7.png",
     "static/media/Claim.svg": "/prediction/static/media/Claim.429445d2df6565036086892161a16743.svg",
@@ -10,6 +10,7 @@
     "static/media/header-logo-white.svg": "/prediction/static/media/header-logo-white.d4bc3109c343a8786d7f876613d9900a.svg",
     "static/media/instagram.svg": "/prediction/static/media/instagram.4a8a847c95183bb6d01d7566fada96de.svg",
     "static/media/menu-bar.svg": "/prediction/static/media/menu-bar.af28010308a9703cd31d9c39ddf8a32c.svg",
+    "static/media/discord.svg": "/prediction/static/media/discord.a197497dae6ac7ebb131c345375e478c.svg",
     "static/media/twitter.svg": "/prediction/static/media/twitter.354986eeae171b497f35158134cecee9.svg",
     "static/media/telegram.svg": "/prediction/static/media/telegram.72e14181a8f4dce2232e9eaa78b6fde6.svg",
     "static/media/linkedin.svg": "/prediction/static/media/linkedin.c89bd064eab7e2f55ea85c9a844a9a61.svg",
@@ -21,11 +22,11 @@
     "static/media/UpSide.svg": "/prediction/static/media/UpSide.722b00377a1d12dbb25757b390a7e883.svg",
     "static/media/loader.svg": "/prediction/static/media/loader.c7cbbf422e07a6f10ee048b3ddb78703.svg",
     "main.9771b2c8.css.map": "/prediction/static/css/main.9771b2c8.css.map",
-    "main.19bcb817.js.map": "/prediction/static/js/main.19bcb817.js.map",
+    "main.888dc62c.js.map": "/prediction/static/js/main.888dc62c.js.map",
     "787.23faca10.chunk.js.map": "/prediction/static/js/787.23faca10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9771b2c8.css",
-    "static/js/main.19bcb817.js"
+    "static/js/main.888dc62c.js"
   ]
 }
