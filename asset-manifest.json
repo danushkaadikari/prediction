@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/prediction/static/css/main.57a692a3.css",
-    "main.js": "/prediction/static/js/main.ef28ba4c.js",
+    "main.css": "/prediction/static/css/main.9771b2c8.css",
+    "main.js": "/prediction/static/js/main.19bcb817.js",
     "static/js/787.23faca10.chunk.js": "/prediction/static/js/787.23faca10.chunk.js",
     "static/media/lumangi-cover.png": "/prediction/static/media/lumangi-cover.ffbda36140256d2073a7.png",
     "static/media/Claim.svg": "/prediction/static/media/Claim.429445d2df6565036086892161a16743.svg",
@@ -20,12 +20,12 @@
     "static/media/DownSide.svg": "/prediction/static/media/DownSide.46c29e6a6f64755a14f888010898a0cb.svg",
     "static/media/UpSide.svg": "/prediction/static/media/UpSide.722b00377a1d12dbb25757b390a7e883.svg",
     "static/media/loader.svg": "/prediction/static/media/loader.c7cbbf422e07a6f10ee048b3ddb78703.svg",
-    "main.57a692a3.css.map": "/prediction/static/css/main.57a692a3.css.map",
-    "main.ef28ba4c.js.map": "/prediction/static/js/main.ef28ba4c.js.map",
+    "main.9771b2c8.css.map": "/prediction/static/css/main.9771b2c8.css.map",
+    "main.19bcb817.js.map": "/prediction/static/js/main.19bcb817.js.map",
     "787.23faca10.chunk.js.map": "/prediction/static/js/787.23faca10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57a692a3.css",
-    "static/js/main.ef28ba4c.js"
+    "static/css/main.9771b2c8.css",
+    "static/js/main.19bcb817.js"
   ]
 }
